@@ -1,6 +1,6 @@
 ### 不做了 睡大覺
 
-[![wakatime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=MyAngelATRI&layout=compact](https://github-readme-stats.vercel.app/api/wakatime?username=56145743-0b3a-4124-8b5d-6ecbddd54ce8&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=56145743-0b3a-4124-8b5d-6ecbddd54ce8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Approved233/Approved233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
